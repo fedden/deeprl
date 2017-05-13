@@ -1,0 +1,2 @@
+model_checkpoint_path: "vst_qlearning.tflearn.ckpt"
+all_model_checkpoint_paths: "vst_qlearning.tflearn.ckpt"

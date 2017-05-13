@@ -1,0 +1,153 @@
+Episode 0
+Episode Reward:     341.894428498
+Feature Distance:   69.0595785856
+Parameter Distance: 11.8613340301
+
+Episode 1
+Episode Reward:     329.733191114
+Feature Distance:   76.6872573431
+Parameter Distance: 14.0952081978
+
+Episode 2
+Episode Reward:     329.83847497
+Feature Distance:   76.6212220043
+Parameter Distance: 11.6684221029
+
+Episode 3
+Episode Reward:     319.215830175
+Feature Distance:   83.2838764278
+Parameter Distance: 11.1657636277
+
+Episode 4
+Episode Reward:     333.20403451
+Feature Distance:   74.5103013638
+Parameter Distance: 10.6449313052
+
+Episode 5
+Episode Reward:     329.135417315
+Feature Distance:   77.0621884764
+Parameter Distance: 12.5903597325
+
+Episode 6
+Episode Reward:     335.176029587
+Feature Distance:   73.2734416195
+Parameter Distance: 11.0108690714
+
+Episode 7
+Episode Reward:     321.81502512
+Feature Distance:   81.653629156
+Parameter Distance: 9.6670692917
+
+Episode 8
+Episode Reward:     331.005007598
+Feature Distance:   75.8895582874
+Parameter Distance: 9.1803284958
+
+Episode 9
+Episode Reward:     271.647422041
+Feature Distance:   113.119371352
+Parameter Distance: 10.4790550191
+
+Episode 10
+Episode Reward:     331.316380648
+Feature Distance:   75.6942612528
+Parameter Distance: 9.00069164811
+
+Episode 11
+Episode Reward:     276.207930925
+Feature Distance:   110.258963679
+Parameter Distance: 10.3204579651
+
+Episode 12
+Episode Reward:     325.484939104
+Feature Distance:   79.3518136374
+Parameter Distance: 9.17357628047
+
+Episode 13
+Episode Reward:     325.92818163
+Feature Distance:   79.0738064333
+Parameter Distance: 13.1596876532
+
+Episode 14
+Episode Reward:     271.65618849
+Feature Distance:   113.113872927
+Parameter Distance: 13.0020230673
+
+Episode 15
+Episode Reward:     337.470847195
+Feature Distance:   71.8341035845
+Parameter Distance: 10.6706062984
+
+Episode 16
+Episode Reward:     330.307612053
+Feature Distance:   76.3269734138
+Parameter Distance: 11.6863933261
+
+Episode 17
+Episode Reward:     325.273203469
+Feature Distance:   79.484616851
+Parameter Distance: 11.2296777368
+
+Episode 18
+Episode Reward:     343.823269708
+Feature Distance:   67.8497854818
+Parameter Distance: 11.1420099325
+
+Episode 19
+Episode Reward:     330.698122586
+Feature Distance:   76.0820403693
+Parameter Distance: 9.41617251374
+
+Episode 20
+Episode Reward:     329.637542562
+Feature Distance:   76.7472492999
+Parameter Distance: 11.3506977484
+
+Episode 21
+Episode Reward:     335.425853847
+Feature Distance:   73.1167487489
+Parameter Distance: 10.7231944613
+
+Episode 22
+Episode Reward:     319.787357198
+Feature Distance:   82.9254075981
+Parameter Distance: 12.9116580882
+
+Episode 23
+Episode Reward:     304.692180672
+Feature Distance:   92.3932893352
+Parameter Distance: 11.1656052931
+
+Episode 24
+Episode Reward:     327.39921529
+Feature Distance:   78.151155897
+Parameter Distance: 10.368499564
+
+Episode 25
+Episode Reward:     329.933129943
+Feature Distance:   76.5618532325
+Parameter Distance: 13.2230003253
+
+Episode 26
+Episode Reward:     339.299029535
+Feature Distance:   70.6874449711
+Parameter Distance: 13.7951251026
+
+Episode 27
+Episode Reward:     320.922207723
+Feature Distance:   82.2136152886
+Parameter Distance: 12.5286307782
+
+Episode 28
+Episode Reward:     319.606122568
+Feature Distance:   83.0390802036
+Parameter Distance: 10.9160425551
+
+Episode 29
+Episode Reward:     313.832887854
+Feature Distance:   86.6601245431
+Parameter Distance: 9.88600111753
+
+
+Average Patch Distance:   11.2677697443
+Average Feature Distance: 81.0908877121
